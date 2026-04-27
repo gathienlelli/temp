@@ -1,0 +1,186 @@
+Summary: OctalCore AMD FX-8370, 4320 MHz (21.5 x 201)Gigabyte GA-970A-DS3P  (2 PCI, 3 PCI-E x1, 2 PCI-E x16, 4 DDR3 DIMM, Audio, Gigabit LAN), AMD 970, AMD K15, 16342 МБ  (DDR3 SDRAM), DIMM1: Kingston HyperX KHX1600C9D3/4GX  4 ГБ DDR3-1333 DDR3 SDRAM  (9-9-9-24 @ 666 МГц)  (8-8-8-22 @ 609 МГц)  (7-7-7-20 @ 533 МГц)  (6-6-6-17 @ 457 МГц), DIMM2: Kingston HyperX KHX1600C9D3/4GX 4 ГБ DDR3-1333 DDR3 SDRAM  (9-9-9-24 @ 666 МГц)  (8-8-8-22 @ 609 МГц)  (7-7-7-20 @ 533 МГц)  (6-6-6-17 @ 457 МГц) DIMM3: Wilk Elektronik GY1866D364L9AS/4G          4 ГБ DDR3-1333 DDR3 SDRAM  (9-9-9-24 @ 666 МГц)  (8-8-8-22 @ 609 МГц)  (7-7-7-20 @ 533 МГц)  (6-6-6-17 @ 457 МГц) DIMM4: Wilk Elektronik GY1866D364L9AS/4G          4 ГБ DDR3-1333 DDR3 SDRAM  (9-9-9-24 @ 666 МГц)  (8-8-8-22 @ 609 МГц)  (7-7-7-20 @ 533 МГц)  (6-6-6-17 @ 457 МГц) Тип BIOS   WDC WD5000BPVT-80HXZT3  (500 ГБ, 5400 RPM, SATA-II), R3SL240G  (223 ГБ), TOSHIBA DT01ACA100  (1 ТБ, 7200 RPM, SATA-III), TOSHIBA MK2002TSKB  (2 ТБ, 7200 RPM, SATA-II), SMART-статус жёстких дисков OK, 970A-DS3P 
+  [ DIMM1: Kingston HyperX KHX1600C9D3/4GX ]
+
+    Свойства модуля памяти:
+      Имя модуля                                        Kingston HyperX KHX1600C9D3/4GX
+      Серийный номер                                    BA3BED11h (300759994)
+      Дата выпуска                                      Неделя 44 / 2012
+      Размер модуля                                     4 ГБ (2 ranks, 8 banks)
+      Тип модуля                                        Unbuffered DIMM
+      Тип памяти                                        DDR3 SDRAM
+      Скорость памяти                                   DDR3-1333 (667 МГц)
+      Ширина модуля                                     64 bit
+      Напряжение модуля                                 1.5 V
+      Метод обнаружения ошибок                          Нет
+      Частота регенерации                               Норма (7.8 us)
+      Производитель DRAM                                SK hynix
+
+    Тайминги памяти:
+      @ 666 МГц                                         9-9-9-24  (CL-RCD-RP-RAS) / 33-107-4-10-5-5-20  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+      @ 609 МГц                                         8-8-8-22  (CL-RCD-RP-RAS) / 30-98-4-10-5-5-19  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+      @ 533 МГц                                         7-7-7-20  (CL-RCD-RP-RAS) / 27-86-4-8-4-4-16  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+      @ 457 МГц                                         6-6-6-17  (CL-RCD-RP-RAS) / 23-74-3-7-4-4-14  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+
+    Extreme Memory Profile v1.3:
+      Имя профиля                                       Enthusiast (Certified)
+      Скорость памяти                                   DDR3-1600 (800 МГц)
+      Напряжение питания                                1.65 V  (Контроллер памяти: 1.20 V)
+      Refresh Period (tREF)                             7.9 us
+      Рекомендуется DIMM на канал                       1
+      @ 800 МГц                                         9-9-9-27  (CL-RCD-RP-RAS) / 36-128-0-5-12-6-6-24-8  (RC-RFC-CR-RRD-WR-WTR-RTP-FAW-WCL)
+      @ 711 МГц                                         8-8-8-24  (CL-RCD-RP-RAS) / 32-114-0-5-11-6-6-22-8  (RC-RFC-CR-RRD-WR-WTR-RTP-FAW-WCL)
+      @ 622 МГц                                         7-7-7-21  (CL-RCD-RP-RAS) / 28-100-0-4-10-5-5-19-7  (RC-RFC-CR-RRD-WR-WTR-RTP-FAW-WCL)
+      @ 533 МГц                                         6-6-6-18  (CL-RCD-RP-RAS) / 24-86-0-4-8-4-4-16-6  (RC-RFC-CR-RRD-WR-WTR-RTP-FAW-WCL)
+
+    Функции модуля памяти:
+      Auto Self Refresh (ASR)                           Поддерживается
+      DLL-Off Mode                                      Поддерживается
+      Extended Temperature Range                        Поддерживается
+      Extended Temperature 1X Refresh Rate              Не поддерживается
+      Module Thermal Sensor                             Не поддерживается
+      On-Die Thermal Sensor Readout (ODTS)              Не поддерживается
+      Partial Array Self Refresh (PASR)                 Не поддерживается
+      RZQ/6                                             Поддерживается
+      RZQ/7                                             Поддерживается
+
+    Производитель модуля памяти:
+      Фирма                                             Kingston Technology Corporation
+      Информация о продукте                             http://www.kingston.com/en/memory
+
+  [ DIMM2: Kingston HyperX KHX1600C9D3/4GX ]
+
+    Свойства модуля памяти:
+      Имя модуля                                        Kingston HyperX KHX1600C9D3/4GX
+      Серийный номер                                    BE3A1DFBh (4212996798)
+      Дата выпуска                                      Неделя 44 / 2012
+      Размер модуля                                     4 ГБ (2 ranks, 8 banks)
+      Тип модуля                                        Unbuffered DIMM
+      Тип памяти                                        DDR3 SDRAM
+      Скорость памяти                                   DDR3-1333 (667 МГц)
+      Ширина модуля                                     64 bit
+      Напряжение модуля                                 1.5 V
+      Метод обнаружения ошибок                          Нет
+      Частота регенерации                               Норма (7.8 us)
+      Производитель DRAM                                SK hynix
+
+    Тайминги памяти:
+      @ 666 МГц                                         9-9-9-24  (CL-RCD-RP-RAS) / 33-107-4-10-5-5-20  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+      @ 609 МГц                                         8-8-8-22  (CL-RCD-RP-RAS) / 30-98-4-10-5-5-19  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+      @ 533 МГц                                         7-7-7-20  (CL-RCD-RP-RAS) / 27-86-4-8-4-4-16  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+      @ 457 МГц                                         6-6-6-17  (CL-RCD-RP-RAS) / 23-74-3-7-4-4-14  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+
+    Extreme Memory Profile v1.3:
+      Имя профиля                                       Enthusiast (Certified)
+      Скорость памяти                                   DDR3-1600 (800 МГц)
+      Напряжение питания                                1.65 V  (Контроллер памяти: 1.20 V)
+      Refresh Period (tREF)                             7.9 us
+      Рекомендуется DIMM на канал                       1
+      @ 800 МГц                                         9-9-9-27  (CL-RCD-RP-RAS) / 36-128-0-5-12-6-6-24-8  (RC-RFC-CR-RRD-WR-WTR-RTP-FAW-WCL)
+      @ 711 МГц                                         8-8-8-24  (CL-RCD-RP-RAS) / 32-114-0-5-11-6-6-22-8  (RC-RFC-CR-RRD-WR-WTR-RTP-FAW-WCL)
+      @ 622 МГц                                         7-7-7-21  (CL-RCD-RP-RAS) / 28-100-0-4-10-5-5-19-7  (RC-RFC-CR-RRD-WR-WTR-RTP-FAW-WCL)
+      @ 533 МГц                                         6-6-6-18  (CL-RCD-RP-RAS) / 24-86-0-4-8-4-4-16-6  (RC-RFC-CR-RRD-WR-WTR-RTP-FAW-WCL)
+
+    Функции модуля памяти:
+      Auto Self Refresh (ASR)                           Поддерживается
+      DLL-Off Mode                                      Поддерживается
+      Extended Temperature Range                        Поддерживается
+      Extended Temperature 1X Refresh Rate              Не поддерживается
+      Module Thermal Sensor                             Не поддерживается
+      On-Die Thermal Sensor Readout (ODTS)              Не поддерживается
+      Partial Array Self Refresh (PASR)                 Не поддерживается
+      RZQ/6                                             Поддерживается
+      RZQ/7                                             Поддерживается
+
+    Производитель модуля памяти:
+      Фирма                                             Kingston Technology Corporation
+      Информация о продукте                             http://www.kingston.com/en/memory
+
+  [ DIMM3: Wilk Elektronik GY1866D364L9AS/4G ]
+
+    Свойства модуля памяти:
+      Имя модуля                                        Wilk Elektronik GY1866D364L9AS/4G
+      Серийный номер                                    Нет
+      Дата выпуска                                      Неделя 47 / 2017
+      Размер модуля                                     4 ГБ (1 rank, 8 banks)
+      Тип модуля                                        Unbuffered DIMM
+      Тип памяти                                        DDR3 SDRAM
+      Скорость памяти                                   DDR3-1333 (667 МГц)
+      Ширина модуля                                     64 bit
+      Напряжение модуля                                 1.5 V
+      Метод обнаружения ошибок                          Нет
+      Частота регенерации                               Норма (7.8 us)
+
+    Тайминги памяти:
+      @ 666 МГц                                         9-9-9-24  (CL-RCD-RP-RAS) / 33-174-4-10-5-5-20  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+      @ 609 МГц                                         8-8-8-22  (CL-RCD-RP-RAS) / 30-159-4-10-5-5-19  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+      @ 533 МГц                                         7-7-7-20  (CL-RCD-RP-RAS) / 27-139-4-8-4-4-16  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+      @ 457 МГц                                         6-6-6-17  (CL-RCD-RP-RAS) / 23-119-3-7-4-4-14  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+
+    Extreme Memory Profile v1.3:
+      Имя профиля                                       Enthusiast (Certified)
+      Скорость памяти                                   DDR3-1866 (933 МГц)
+      Напряжение питания                                1.50 V  (Контроллер памяти: 1.30 V)
+      Refresh Period (tREF)                             7.8 us
+      Рекомендуется DIMM на канал                       1
+      @ 932 МГц                                         9-11-9-28  (CL-RCD-RP-RAS) / 39-243-2-6-16-7-8-29-8  (RC-RFC-CR-RRD-WR-WTR-RTP-FAW-WCL)
+      @ 624 МГц                                         6-8-6-19  (CL-RCD-RP-RAS) / 26-163-2-4-11-5-6-20-6  (RC-RFC-CR-RRD-WR-WTR-RTP-FAW-WCL)
+
+    Функции модуля памяти:
+      Auto Self Refresh (ASR)                           Поддерживается
+      DLL-Off Mode                                      Поддерживается
+      Extended Temperature Range                        Поддерживается
+      Extended Temperature 1X Refresh Rate              Не поддерживается
+      Module Thermal Sensor                             Не поддерживается
+      On-Die Thermal Sensor Readout (ODTS)              Не поддерживается
+      Partial Array Self Refresh (PASR)                 Не поддерживается
+      RZQ/6                                             Поддерживается
+      RZQ/7                                             Поддерживается
+
+  [ DIMM4: Wilk Elektronik GY1866D364L9AS/4G ]
+
+    Свойства модуля памяти:
+      Имя модуля                                        Wilk Elektronik GY1866D364L9AS/4G
+      Серийный номер                                    Нет
+      Дата выпуска                                      Неделя 47 / 2017
+      Размер модуля                                     4 ГБ (1 rank, 8 banks)
+      Тип модуля                                        Unbuffered DIMM
+      Тип памяти                                        DDR3 SDRAM
+      Скорость памяти                                   DDR3-1333 (667 МГц)
+      Ширина модуля                                     64 bit
+      Напряжение модуля                                 1.5 V
+      Метод обнаружения ошибок                          Нет
+      Частота регенерации                               Норма (7.8 us)
+
+    Тайминги памяти:
+      @ 666 МГц                                         9-9-9-24  (CL-RCD-RP-RAS) / 33-174-4-10-5-5-20  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+      @ 609 МГц                                         8-8-8-22  (CL-RCD-RP-RAS) / 30-159-4-10-5-5-19  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+      @ 533 МГц                                         7-7-7-20  (CL-RCD-RP-RAS) / 27-139-4-8-4-4-16  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+      @ 457 МГц                                         6-6-6-17  (CL-RCD-RP-RAS) / 23-119-3-7-4-4-14  (RC-RFC-RRD-WR-WTR-RTP-FAW)
+
+    Extreme Memory Profile v1.3:
+      Имя профиля                                       Enthusiast (Certified)
+      Скорость памяти                                   DDR3-1866 (933 МГц)
+      Напряжение питания                                1.50 V  (Контроллер памяти: 1.30 V)
+      Refresh Period (tREF)                             7.8 us
+      Рекомендуется DIMM на канал                       1
+      @ 932 МГц                                         9-11-9-28  (CL-RCD-RP-RAS) / 39-243-2-6-16-7-8-29-8  (RC-RFC-CR-RRD-WR-WTR-RTP-FAW-WCL)
+      @ 624 МГц                                         6-8-6-19  (CL-RCD-RP-RAS) / 26-163-2-4-11-5-6-20-6  (RC-RFC-CR-RRD-WR-WTR-RTP-FAW-WCL)
+
+    Функции модуля памяти:
+      Auto Self Refresh (ASR)                           Поддерживается
+      DLL-Off Mode                                      Поддерживается
+      Extended Temperature Range                        Поддерживается
+      Extended Temperature 1X Refresh Rate              Не поддерживается
+      Module Thermal Sensor                             Не поддерживается
+      On-Die Thermal Sensor Readout (ODTS)              Не поддерживается
+      Partial Array Self Refresh (PASR)                 Не поддерживается
+      RZQ/6                                             Поддерживается
+      RZQ/7                                             Поддерживается
+	  
+	  Тип BIOS                                          AMI EFI
+Версия BIOS                                       FD
+Версия AGESA                                      OrochiPIV1.5.0.5
+SMBIOS Version                                    2.7
+UEFI Boot                                         Да
+Дата BIOS системы                                 02/26/2016
+Дата BIOS видеоадаптера                           09/13/16
